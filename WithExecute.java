@@ -1,4 +1,4 @@
-package jdbcLearning;
+package jdbc;
 
 //with execute command and surrounded with try catch
 
@@ -80,9 +80,5 @@ public class WithExecute {
                 e.printStackTrace();
             }
         }
-    }
-
-    public static void main(String[] args) {
-        retrieve();
     }
 }

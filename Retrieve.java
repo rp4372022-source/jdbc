@@ -1,4 +1,4 @@
-package jdbcLearning;
+package jdbc;
 
 import java.sql.*;
 
